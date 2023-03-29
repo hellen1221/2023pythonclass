@@ -5,6 +5,7 @@ print('%d개의 데이터 입력 : ' % n)
 for k in range(n):
     #listex.append(int(input()))   
     listex[k] = int(input())
+    
 msum = sum(listex)     
 print('리스트 데이터의 합  : %d\n' % msum)
 print('리스트 데이터의 평균  : %.2f\n' % (msum/len(listex)))

@@ -1,6 +1,7 @@
 import random as r
 import time as t
 
+
 slot = [0]*3
 for k in range(3) :
     slot[k] = r.randrange(7, 10) # 무작위 수 7, 8, 9 생성

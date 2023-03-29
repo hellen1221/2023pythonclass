@@ -4,6 +4,7 @@ pSum = [0]
 temp = 0
 slist = []
 
+
 for i in numbers:
     temp = temp + i
     pSum.append(temp)

@@ -18,3 +18,5 @@ for k in range(1, n):
         max = listex[k]
 
 print('주어진 리스트는 최대값(%d), 최소값(%d)을 가지고 있습니다' % (max, min))
+
+# sum, min, max 리스트 함수 있음 max_min2.py참고

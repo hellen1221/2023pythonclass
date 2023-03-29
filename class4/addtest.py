@@ -1,5 +1,4 @@
 import random
-
 score=0
 for k in range(5):
     correct = False

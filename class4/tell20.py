@@ -1,5 +1,4 @@
 import random
-
 com = random.randrange(1, 21)
 user = -1
 while com != user :     # com과 user가 값으면 반복 종료

@@ -16,4 +16,5 @@ for i in range(quizNo):
     s, e = map(int, input().split())
     print(pSum[e]-pSum[s-1])
 
+
 # 구간합 (s, e) 쌍의 list로 해서 출력이 따로 되도록

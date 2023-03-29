@@ -1,4 +1,6 @@
 import random
+
+# 답을 맞추면 몇번만에 맞추었는지 출력
 # 3번 시도했는데 못 맞추면 답을 알려주도록 변경
 score=0
 for k in range(5):
